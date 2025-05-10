@@ -29,7 +29,7 @@ clear
 python3 8ball.py 
 ```
 ---
-NOTE: All answers are random, and are not to be taken seriously! ☻<br />
+<sub>NOTE: All answers are random, and are not to be taken seriously! ☻</sub><br />
 
 
 
