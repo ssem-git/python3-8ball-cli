@@ -21,7 +21,7 @@ clear
 ./8ball.py 
 ```
 or 
-```
+```sh
 # Method 2 - Run 8ball.py directly with python3 (not marked as executable) 
 git clone https://github.com/ssem-git/python3-8ball-cli
 cd python3-8ball-cli/ 
