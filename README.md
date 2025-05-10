@@ -4,7 +4,6 @@
 
 ## Summary
 A simple Python3 CLI 8ball, for all your burning questions - based on the real life magic 8ball.<br />
-NOTE: All answers are random, and are not to be taken seriously!<br />
 
 ---
 ## Installation
@@ -29,6 +28,8 @@ cd python3-8ball-cli/
 clear 
 python3 8ball.py 
 ```
+---
+NOTE: All answers are random, and are not to be taken seriously! ☻<br />
 
 
 
